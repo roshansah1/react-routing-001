@@ -4,3 +4,9 @@
   box-sizing: border-box;
   font-family: 'DM Sans', sans-serif;
 }
+
+@media only screen and (max-width: 650px){
+  html{
+    font-size: 12px;
+  }
+}
